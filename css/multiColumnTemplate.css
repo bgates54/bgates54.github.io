@@ -79,6 +79,7 @@
 	padding-bottom: 15px;
 	padding-left: 0px;
 	width: 100%;
+	display: flex;
 }
 .secondary_header ul li {
     list-style: none;
@@ -241,6 +242,7 @@ body {
 	height: auto;
 	width: 100%;
 	text-align: center;
+	display: block;
 }
 .secondary_header {
 	margin-top: 0px;
@@ -327,6 +329,8 @@ body {
 	height: auto;
 	width: 100%;
 	text-align: center;
+	display: block;
+
 }
 .secondary_header {
 	margin-top: 0px;
